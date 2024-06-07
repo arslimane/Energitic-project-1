@@ -172,7 +172,7 @@ step output window.
 model’s prediction using E-LSTM.
 <br>
 <img  
-  src="https://github.com/arslimane/Energitic-project-1/assets/60701015/5a21e626-3fa8-4554-9b00-95833fb32da5" 
+  src="https://github.com/arslimane/Energitic-project-1/blob/main/g1.pdf" 
   alt="Alt text" 
   title="Optional title" 
   style="width: 400px"
