@@ -10,9 +10,10 @@ This contribution significantly enhances the robust and reliable monitoring of b
 This repo contains code for the paper: A Dual Approach for SOH Prediction and Event Detection
 ```latex
 @article{slimane2024,
-  title={A Dual Approach for SOH Prediction and Event Detection},
+  title={Data-Driven Strategy for State of Health Prediction and Anomaly Detection in Lithium-Ion
+Batteries},
   author={Slimane Arbaoui, Ahmed Samet, Ali Ayadi, Tedjani Mesbahi, Romuald Boné},
-  journal={Energy and Storage:2352-1538},
+  journal={Energy and AI},
   year={2024}
 }
 ```
