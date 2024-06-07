@@ -190,43 +190,7 @@ model’s prediction using E-LSTM.
   title="Optional title" 
   style="width: 400px"
   >
-  <br>
-  Figure 3: SOH drop down events (low).
-  <br>
-<img  
-  src="https://github.com/arslimane/Energitic-project-1/assets/60701015/71921386-17d6-46e8-88a8-1b2b96848567" 
-  alt="Alt text" 
-  title="Optional title" 
-  style="width: 400px"
-  >
- <br>
-  Figure 4: SOH drop down events (medium).
-  <br>
-<img  
-  src="https://github.com/arslimane/Energitic-project-1/assets/60701015/30323614-cb15-463c-8aea-330dc70698e4" 
-  alt="Alt text" 
-  title="Optional title" 
-  style="width: 400px"
-  >
- <br>
-  Figure 5: SOH drop down events (high).
-    <br>
-<img  
-  src="https://github.com/arslimane/Energitic-project-1/assets/60701015/7784ef32-9d63-4047-8c74-36b7ff20725a" 
-  alt="Alt text" 
-  title="Optional title" 
-  style="width: 400px"
-  >
- <br>
-  Figure 6: Simple representation of the events
-and the data related to them.
-   <br>
-<img  
-  src="https://github.com/arslimane/Energitic-project-1/assets/60701015/5f0a202e-1ec8-4e1a-a33f-2f249a4bc8bc" 
-  alt="Alt text" 
-  title="Optional title" 
-  style="width: 400px"
-  >
+
 
 
 
