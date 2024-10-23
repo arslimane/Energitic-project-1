@@ -172,16 +172,6 @@ step output window.
   Figure 2: The average contribution of each feature in the
 model’s prediction using E-LSTM.
 <br>
-Figure 1: SOH prediction using 10-step input window for 10-
-step output window.
-<br>
-<img  
-  src="https://github.com/arslimane/Energitic-project-1/assets/60701015/4c23b33b-d892-4d87-b01d-f166da32862c" 
-  alt="Alt text" 
-  title="Optional title" 
-  style="width: 400px"
-  >
-  <br>
   Figure 2: The average contribution of each feature in the
 model’s prediction using E-LSTM.
 <br>
